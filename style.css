@@ -40,7 +40,7 @@ canvas#canvas {
 }
 
 div#beach {
-  background-image: url("./Images/couples.png");
+  background-image: url("couples.png");
   /* background-size: cover; */
   background-position: bottom right;
   background-size: 1700px;
